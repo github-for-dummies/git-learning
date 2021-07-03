@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is read me in main branch
-=======
-this is read me in second branch
->>>>>>> second
+This is a README.md file for github-for-dummies
